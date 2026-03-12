@@ -1,0 +1,7 @@
+resp_rate,spo2,ph,condition
+18,97,7.4,Normal
+25,92,7.35,Mild
+32,88,7.32,Severe
+28,85,7.28,Chronic
+20,96,7.41,Normal
+30,90,7.33,Severe
